@@ -32,7 +32,7 @@ Clone the Repository
 bash
 Copy
 Edit
-git clone https://github.com/dhruvsingh09/disk-scheduling-simulator.git
+git clone https://github.com/dhruvsingh09/disk-scheduling-visualizing-simulator
 cd disk-scheduling-simulator
 Install Requirements Make sure you have Python 3 installed. Then install the dependencies:
 
